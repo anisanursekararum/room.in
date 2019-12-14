@@ -1,2 +1,2 @@
 # room.in
-booking room with laravel
+booking room with laravel and bootstrap
